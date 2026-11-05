@@ -49,4 +49,4 @@ This repository contains my Manual Testing practice projects, including test cas
 **Mohd Asif**
 
 - GitHub: https://github.com/MohdAsif63
-- LinkedIn: https://www.linkedin.com/in/mohd-asif-8531a8300/
+- LinkedIn: https://www.linkedin.com/in/mohdasif-developer/
