@@ -1,49 +1,52 @@
-# QA Portfolio - Mohd Asif
+# QA Portfolio – Mohd Asif
 
-This repository contains manual testing projects.
+This repository contains my Manual Testing practice projects, including test cases for different real-world applications and scenarios.
 
-## Project 1: ATM Test Cases
-  - Designed 25+ test cases for ATM system
-  - Covered:
-   - Functional Testing
-   - Negative Testing
-   - Edge Cases
-   - Basic Security Scenarios
+## Projects
 
-     
-## Project 2: Elevator System Testing
-- Wrote test cases for basic elevator features like floor selection and door operations  
-- Covered different situations like multiple floor requests and button usage  
-- Checked that the elevator works correctly in normal and edge cases
+### 1. ATM System Testing
+- Designed 25+ test cases for an ATM system.
+- Covered functional testing and negative scenarios.
+- Tested different edge cases and basic security scenarios.
+- [View ATM Test Cases](ATM_TestCases.xlsx)
 
+### 2. Elevator System Testing
+- Created test cases for basic elevator functionalities such as floor selection and door operations.
+- Covered multiple floor requests and button operations.
+- Tested normal and edge-case scenarios.
+- [View Elevator Test Cases](Elevator_TestCases.xlsx)
 
-## Project 3: Registration Form Testing
-- Designed 25+ test cases for user registration form
-- Covered validations like email, password, mobile number
-- Included positive, negative and edge test cases
+### 3. Registration Form Testing
+- Designed 25+ test cases for a user registration form.
+- Covered email, password and mobile number validations.
+- Included positive, negative and edge test cases.
+- [View Registration Form Test Cases](RegistrationForm.xlsx)
 
+### 4. E-Commerce Payment Module Testing
+- Created manual test cases for an e-commerce payment system.
+- Covered different payment scenarios:
+  - Successful payment
+  - Failed payment
+  - Pending payment
+  - Refund process
+  - Payment retry
+  - Payment timeout
+  - Network issues during payment
+  - Duplicate payment prevention
+  - Session timeout
+  - Coupon expiry
+  - Out-of-stock scenarios
+  - Same cart opened in multiple tabs
+- Included positive, negative and edge test cases.
+- Focused on verifying system behaviour during the payment flow.
+- [View E-Commerce Payment Test Cases](E-commerceWebsite.xlsx)
 
-## Project 4: E-Commerce Payment Module Testing
-- Created manual test cases for e-commerce payment system
-- Covered different payment situations like:
-- Payment success
-- Payment failed
-- Pending payment
-- Refund process
-- Retry payment
-- Payment timeout
-- Network issue during payment
-- Duplicate payment prevention
-- Session timeout
-- Coupon expiry
-- Out of stock case
-- Same cart opened in multiple tabs
-- Included positive, negative and edge test cases
-- Focused on checking system behaviour and user experience during payment flow
-  
 ## Tools Used
-- Excel
+- Microsoft Excel
 - Manual Testing
 
 ## Author
-Mohd Asif
+**Mohd Asif**
+
+- GitHub: https://github.com/MohdAsif63
+- LinkedIn: https://www.linkedin.com/in/mohd-asif-8531a8300/
